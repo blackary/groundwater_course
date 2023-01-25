@@ -1,4 +1,4 @@
-name: venv
+name: pg
 channels:
   - gimli
   - conda-forge
